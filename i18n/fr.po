@@ -1,0 +1,500 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* data_correction_log
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-01 13:45+0000\n"
+"PO-Revision-Date: 2023-02-01 13:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_needaction
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_needaction
+msgid "Action Needed"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_ids
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_ids
+msgid "Activities"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_exception_decoration
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_state
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_state
+msgid "Activity State"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_type_icon
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_type_icon
+msgid "Activity Type Icon"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_attachment_count
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_attachment_count
+msgid "Attachment Count"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__create_uid
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__create_date
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.ui.menu,name:data_correction_log.menu_data
+msgid "Data"
+msgstr "Données"
+
+#. module: data_correction_log
+#: model:ir.actions.act_window,name:data_correction_log.data_update_log_action
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_form
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_tree
+msgid "Data update log"
+msgstr "Journal de correction"
+
+#. module: data_correction_log
+#: model:ir.actions.act_window,name:data_correction_log.data_update_process_action
+#: model:ir.ui.menu,name:data_correction_log.menu_data_update_process
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_process_view_form
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_process_view_tree
+msgid "Data update process"
+msgstr "Processus de correction"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__description
+msgid "Description"
+msgstr "Description"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__display_name
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__display_name
+msgid "Display Name"
+msgstr "Nom"
+
+#. module: data_correction_log
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_search
+msgid "Field"
+msgstr "Champ"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__field
+msgid "Field Name"
+msgstr "Champ"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__ttype
+msgid "Field Type"
+msgstr "Type.champ"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_follower_ids
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_follower_ids
+msgid "Followers"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_partner_ids
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_partner_ids
+msgid "Followers (Partners)"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__activity_type_icon
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr ""
+
+#. module: data_correction_log
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_search
+msgid "Group By"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__has_message
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__has_message
+msgid "Has Message"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__id
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__id
+msgid "ID"
+msgstr "ID"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_exception_icon
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_exception_icon
+msgid "Icon"
+msgstr "Icone"
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__activity_exception_icon
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_needaction
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_unread
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_needaction
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_unread
+msgid "If checked, new messages require your attention."
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_has_error
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_has_sms_error
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_has_error
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_is_follower
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_is_follower
+msgid "Is Follower"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log____last_update
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__write_uid
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__write_date
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__line_ids
+msgid "Line"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__line_ids_count
+msgid "Line Ids Count"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_main_attachment_id
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_main_attachment_id
+msgid "Main Attachment"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_has_error
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_has_error
+msgid "Message Delivery error"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_ids
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_ids
+msgid "Messages"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__model
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_search
+msgid "Model"
+msgstr "Objet"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__my_activity_date_deadline
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__new_data
+msgid "New data"
+msgstr "Nouvelle donnée"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_calendar_event_id
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_date_deadline
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_summary
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_summary
+msgid "Next Activity Summary"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_type_id
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_type_id
+msgid "Next Activity Type"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_needaction_counter
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_needaction_counter
+msgid "Number of Actions"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_has_error_counter
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_has_error_counter
+msgid "Number of errors"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_needaction_counter
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_needaction_counter
+msgid "Number of messages which requires an action"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_has_error_counter
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__message_unread_counter
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__message_unread_counter
+msgid "Number of unread messages"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__original_data
+msgid "Original data"
+msgstr "Donnée d'origine"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__parent_id
+msgid "Parent"
+msgstr "Parent"
+
+#. module: data_correction_log
+#: model:res.groups,name:data_correction_log.group_data_update_log_read
+msgid "Read data modification/correction logs"
+msgstr "Visualiser les journaux de correction"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__res_id
+msgid "Record ID"
+msgstr "ID enregistrement"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__name
+msgid "Reference"
+msgstr "Référence"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__requested_by
+msgid "Requested by"
+msgstr "Demandée par"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__activity_user_id
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__activity_user_id
+msgid "Responsible User"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_has_sms_error
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr ""
+
+#. module: data_correction_log
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_log_view_search
+msgid "Search Data update log"
+msgstr "Rechercher journaux de correction"
+
+#. module: data_correction_log
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_process_view_search
+msgid "Search Data update process"
+msgstr "Rechercher processus de correction"
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__activity_state
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__res_id
+msgid "The ID of the updated record"
+msgstr "ID de l'enregistrement corrigé/modifié"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__name
+msgid "Title"
+msgstr "Titre"
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__activity_exception_decoration
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr ""
+
+#. module: data_correction_log
+#: model:res.groups,name:data_correction_log.group_data_update_log_undo
+msgid "Undo data modification/correction logs"
+msgstr "Créer/modifier les journaux de correction"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_unread
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_unread
+msgid "Unread Messages"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__message_unread_counter
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__message_unread_counter
+msgid "Unread Messages Counter"
+msgstr ""
+
+#. module: data_correction_log
+#: code:addons/data_correction_log/models/data_update.py:0
+#: model_terms:ir.ui.view,arch_db:data_correction_log.data_update_process_view_form
+#, python-format
+msgid "Update details"
+msgstr "Détails"
+
+#. module: data_correction_log
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_log__website_message_ids
+#: model:ir.model.fields,field_description:data_correction_log.field_data_update_process__website_message_ids
+msgid "Website Messages"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields,help:data_correction_log.field_data_update_log__website_message_ids
+#: model:ir.model.fields,help:data_correction_log.field_data_update_process__website_message_ids
+msgid "Website communication history"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__binary
+msgid "binary"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__boolean
+msgid "boolean"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__char
+msgid "char"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model,name:data_correction_log.model_data_update_log
+msgid "data.update.log"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model,name:data_correction_log.model_data_update_process
+msgid "data.update.process"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__date
+msgid "date"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__datetime
+msgid "datetime"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__float
+msgid "float"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__html
+msgid "html"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__integer
+msgid "integer"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__many2many
+msgid "many2many"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__many2one
+msgid "many2one"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__many2one_reference
+msgid "many2one_reference"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__monetary
+msgid "monetary"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__one2many
+msgid "one2many"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__reference
+msgid "reference"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__selection
+msgid "selection"
+msgstr ""
+
+#. module: data_correction_log
+#: model:ir.model.fields.selection,name:data_correction_log.selection__data_update_log__ttype__text
+msgid "text"
+msgstr ""

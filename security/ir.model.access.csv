@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_data_update_log_read,data_update_log_read,model_data_update_log,data_correction_log.group_data_update_log_read,1,0,0,0
+access_data_update_log_undo,data_update_log_undo,model_data_update_log,data_correction_log.group_data_update_log_undo,1,1,1,1
+access_data_update_process_read,data_update_process_read,model_data_update_process,data_correction_log.group_data_update_log_read,1,0,0,0
+access_data_update_process_undo,data_update_process_undo,model_data_update_process,data_correction_log.group_data_update_log_undo,1,1,1,1
+
+
